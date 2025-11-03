@@ -2,9 +2,9 @@
 <h3 align="center">Crafting Code with Creativity and Precision</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
-- 🔭 I’m currently working on **ERP**
+- 🔭 I’m currently working on **machine learning models, DRF, & related python libraries**
 
-- 🌱 I’m currently learning **AI/ML, Python, Frappe**
+- 🌱 I’m currently learning **AI/ML, Python, Django, DRF**
 
 - 📫 How to reach me **uttampallesamarth3@gmail.com**
 
